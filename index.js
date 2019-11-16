@@ -32,7 +32,7 @@ client.on('message', msg => {
 client.login(process.env.BOT_TOKEN);
 
 const getName = (path) => {
-    switch (path.replace(/\d*(\.png)?(\.jpg)?/g, "")) {
+    switch (path.replace(/\d*\.(png|jpg)/, "")) {
         case "jonathan":
             return "Jonathan Joestar";
         case "joseph":
