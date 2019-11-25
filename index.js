@@ -32,6 +32,7 @@ client.on('message', msg => {
 client.login(process.env.BOT_TOKEN);
 
 const getName = (path) => {
+    // remove numbers (if present) and file extension
     switch (path.replace(/\d*\.(png|jpg)/, "")) {
         case "jonathan":
             return "Jonathan Joestar";
