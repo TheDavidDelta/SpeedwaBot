@@ -1,0 +1,39 @@
+{
+    "en": {
+        "help": [
+            "SpeedwaBot by <@198493822781620224>",
+            "Write **!jojo** to recive an image of a random jojo (seasons 1-8).",
+            "> Includes Gyro Zeppeli and some *easter eggs* as well.",
+            "Write **!jojo lang *language*** to select the language.",
+            "> Available: **en**: English (*default*), **es**: Spanish",
+            "Bugs and suggestions: **speedwabot@thedaviddelta.com**"
+        ],
+        "jonathan": "Jonathan Joestar",
+        "joseph": "Joseph Joestar",
+        "jotaro": "Jotaro Kujo",
+        "josuke": "Josuke Higashikata",
+        "giorno": "Giorno Giovana",
+        "jolyne": "Jolyne Kujo",
+        "gyro": "Gyro Zeppeli",
+        "johnny": "Johnny Joestar",
+        "gappy": "Gappy Higashikata",
+        "dio": "You were expecting a Jojo, but it was me, Dio!",
+        "speedwagon": "I wasn't made for this kind of job",
+        "langsuccess": "Language changed successfully",
+        "langerror": "Invalid language"
+    },
+    "es": {
+        "help": [
+            "SpeedwaBot por <@198493822781620224>",
+            "Escribe **!jojo** para recibir la imagen de un jojo aleatorio (seasons 1-8).",
+            "> También incluye a Gyro Zeppeli y algún *easter egg*",
+            "Escribe **!jojo lang *idioma*** para seleccionar el idioma.",
+            "> Disponibles: **en**: Inglés (*por defecto*), **es**: Español",
+            "Errores y sugerencias: **speedwabot@thedaviddelta.com**"
+        ],
+        "dio": "Esperabas un Jojo, pero era yo, Dio!",
+        "speedwagon": "Yo no estaba hecho para este tipo de trabajos",
+        "langsuccess": "Idioma cambiado correctamente",
+        "langerror": "Idioma inválido"
+    }
+}

@@ -1,6 +1,6 @@
 {
   "name": "speedwabot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple Discord bot about Jojo's built on NodeJS",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.3.5"
   }
 }
